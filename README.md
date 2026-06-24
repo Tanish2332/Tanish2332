@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Tanish Tayal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning BTECH CSE
-- 📫 How to reach me ...
+<h1 align="center">
+  Hi 👋, I'm Tanish Tayal
+</h1>
 
-<!---
-Tanish2332/Tanish2332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+MERN+Developer;Competitive+Programmer;Future+Google+SWE" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
